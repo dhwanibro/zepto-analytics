@@ -89,4 +89,4 @@ pip install -r requirements.txt
 ---
 
 ## 📝 License  
-MIT License — see [LICENSE.md](LICENSE.md)
+MIT License — see [LICENSE]
