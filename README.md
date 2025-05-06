@@ -32,7 +32,7 @@ visualize.cleaning(clean_df)
 |----------------|-------------------------------|
 | Data Wrangling | `pandas`, `numpy`             |
 | Visuals        | `matplotlib`, `seaborn`, `plotly` |
-| Modeling       | `scikit-learn`, `xgboost`  |
+| Modeling       | `scikit-learn`, `xgboost` *(planned)* |
 | Pipeline       | Python CLI, Jupyter Notebooks |
 
 ---
@@ -68,18 +68,23 @@ pip install -r requirements.txt
 
 ## 📊 Key Findings
 
-💰 1. Top Revenue Drivers
-Chocolates & Candies, Ice Cream & Desserts, and Packaged Food exceed ₹1.7B in revenue.
-Ideal for bundling and promotions due to consistent demand.
-🎯 2. Discount Strategy Insights
-Fruits & Vegetables and Curated For You offer the widest discount range (up to 50%).
-Essentials like Cooking Essentials remain price-stable — important for trust and retention.
-🛒 3. In-Stock Performance
-High stock rates: Curated For You, Personal Care, Paan Corner (~95%+)
-Low stock rates: Biscuits, Beverages, Dairy/Bread — potential forecasting or supply issues
-⚖️ 4. Weight vs Price Dynamics
-Strong positive correlation between weight and MRP.
-High-weight outliers (Meats, Packaged Food) suggest premium pricing.
+![Dashboard Summary](images/dashboard.png)
+
+### 💰 1. Top Revenue Drivers  
+- **Chocolates & Candies**, **Ice Cream & Desserts**, and **Packaged Food** exceed ₹1.7B in revenue.  
+- Ideal for **bundling** and **promotions** due to consistent demand.
+
+### 🎯 2. Discount Strategy Insights  
+- **Fruits & Vegetables** and **Curated For You** offer the **widest discount range** (up to 50%).  
+- Essentials like **Cooking Essentials** remain price-stable — important for trust and retention.
+
+### 🛒 3. In-Stock Performance  
+- **High stock rates**: Curated For You, Personal Care, Paan Corner (~95%+)  
+- **Low stock rates**: Biscuits, Beverages, Dairy/Bread — potential forecasting or supply issues
+
+### ⚖️ 4. Weight vs Price Dynamics  
+- Strong **positive correlation** between weight and MRP.  
+- **High-weight outliers** (Meats, Packaged Food) suggest premium pricing.
 
 ---
 
