@@ -75,11 +75,11 @@ pip install -r requirements.txt
 - Ideal for **bundling** and **promotions** due to consistent demand.
 
 ### 🎯 2. Discount Strategy Insights  
-- **Fruits & Vegetables** and **Curated For You** offer the **widest discount range** (up to 50%).  
+- **Fruits & Vegetables** offer the **widest discount range** (up to 50%).  
 - Essentials like **Cooking Essentials** remain price-stable — important for trust and retention.
 
 ### 🛒 3. In-Stock Performance  
-- **High stock rates**: Curated For You, Personal Care, Paan Corner (~95%+)  
+- **High stock rates**:Personal Care, Paan Corner, Fruits and Vegetables (~95%+)  
 - **Low stock rates**: Biscuits, Beverages, Dairy/Bread — potential forecasting or supply issues
 
 ### ⚖️ 4. Weight vs Price Dynamics  
